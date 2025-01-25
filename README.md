@@ -11,7 +11,6 @@ Hi, I'm Szymon. A student of Applied Computer Science at AGH UST as well as a Ba
 - Frontend: Vue.js
 
 ### 📫 How to reach me
-- 📧 mozdzierzszymon@gmail.com
 - ![Linkedin](https://i.sstatic.net/gVE0j.png) [Linkedin](www.linkedin.com/in/szymon-moździerz-4b5150272)
 
 <!--
